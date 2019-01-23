@@ -1,2 +1,1 @@
-# alloc_function.conf
-需要 trace 的内存分配函数
+# 内存访存特征分析工具
